@@ -1,6 +1,5 @@
 {
     "workbench.colorTheme": "Nord",
-    "atomKeymap.promptV3Features": true,
     "workbench.activityBar.visible": false,        
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
