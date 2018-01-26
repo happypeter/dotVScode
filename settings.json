@@ -2,7 +2,6 @@
     "workbench.colorTheme": "Nord",
     "workbench.activityBar.visible": false,        
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.formatOnPaste": true,
     "editor.minimap.enabled": false,
     "terminal.integrated.lineHeight": 1.8,        
     "editor.fontSize": 13,
@@ -13,10 +12,13 @@
         "javascript": "javascriptreact"
     },
     "explorer.confirmDragAndDrop": false,
+    "files.trimFinalNewlines": true,
     "files.insertFinalNewline": true,
     "editor.lineHeight": 25,
     "files.autoSave": "onFocusChange",   
-    "files.trimFinalNewlines": true,
     "explorer.confirmDelete": false,
-    "window.zoomLevel": 3,        
+    "window.zoomLevel": 3,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true
 }
