@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Nord",
+    "atomKeymap.promptV3Features": true,
+    "workbench.activityBar.visible": false,        
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.lineHeight": 1.8,        
+    "editor.fontSize": 13,
+    "editor.tabSize": 2,
+    "editor.letterSpacing": 0.7,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "javascript": "javascriptreact"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "files.insertFinalNewline": true,
+    "editor.lineHeight": 25,
+    "files.autoSave": "onFocusChange",   
+    "files.trimFinalNewlines": true,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 3,        
+}
