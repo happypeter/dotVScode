@@ -1,12 +1,4 @@
 {
-	"one chapter": {
-		"prefix": "chap",
-		"body": "# ${1:关标题}\n\n欢迎来到新的一关《${1:关标题}》\n\n至此，《${1:关标题}》这一关就通过了。"
-	},
-	"one section": {
-		"prefix": "sec",
-		"body": "### $1 \n\n进入《$1》这个任务。\n\n看看达成的效果。"
-	},
   "link": {
 	  "prefix": "lll",
 	  "body": "[$1]($2)"
