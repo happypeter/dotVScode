@@ -7,6 +7,7 @@
     "editor.fontSize": 13,
     "editor.tabSize": 2,
     "editor.letterSpacing": 0.7,
+    "editor.lineHeight": 25,
     "emmet.includeLanguages": {
         "vue-html": "html",
         "javascript": "javascriptreact"
@@ -14,10 +15,8 @@
     "explorer.confirmDragAndDrop": false,
     "files.trimFinalNewlines": true,
     "files.insertFinalNewline": true,
-    "editor.lineHeight": 25,
     "files.autoSave": "onFocusChange",
     "explorer.confirmDelete": false,
-    "window.zoomLevel": 1,
     "prettier.semi": false,
     "prettier.singleQuote": true,
     "editor.formatOnSave": true

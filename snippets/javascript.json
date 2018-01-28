@@ -8,11 +8,28 @@
     "body": "import styled from 'styled-components'",
     "description": "empty container"
   },
-  "empty container": {
+  "mapStateToProps": {
+    "prefix": "mst",
+    "body": "mapStateToProps",
+    "description": "shorter word"
+  },
+  "container": {
     "prefix": "rec",
+    "body": [
+      "import React from 'react'",
+      "import $1 from '../components/$1'",
+      "",
+      "const $1Container = props => <$1 {...props} />",
+      "",
+      "export default $1Container"
+    ],
+    "description": "empty container"
+  },
+  "container with connect": {
+    "prefix": "recc",
     "body":
       "import React from 'react'\nimport $1 from '../components/$1'\nimport { connect } from 'react-redux'\n\nconst $1Container = props => <$1 {...props} />\n\nconst mapStateToProps = state => ({ })\n\nexport default connect(mapStateToProps)($1Container)",
-    "description": "empty container"
+    "description": "empty container with connect"
   },
   "reactClassComponent": {
     "prefix": "rcc",
