@@ -17,8 +17,10 @@
     "editor.lineHeight": 25,
     "files.autoSave": "onFocusChange",   
     "explorer.confirmDelete": false,
-    "window.zoomLevel": 3,
+    "window.zoomLevel": 1,
     "prettier.semi": false,
     "prettier.singleQuote": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "atomKeymap.promptV3Features": true,
+    "editor.formatOnPaste": true
 }
