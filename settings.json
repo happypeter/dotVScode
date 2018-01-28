@@ -1,9 +1,9 @@
 {
     "workbench.colorTheme": "Nord",
-    "workbench.activityBar.visible": false,        
+    "workbench.activityBar.visible": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.minimap.enabled": false,
-    "terminal.integrated.lineHeight": 1.8,        
+    "terminal.integrated.lineHeight": 1.8,
     "editor.fontSize": 13,
     "editor.tabSize": 2,
     "editor.letterSpacing": 0.7,
@@ -15,12 +15,10 @@
     "files.trimFinalNewlines": true,
     "files.insertFinalNewline": true,
     "editor.lineHeight": 25,
-    "files.autoSave": "onFocusChange",   
+    "files.autoSave": "onFocusChange",
     "explorer.confirmDelete": false,
     "window.zoomLevel": 1,
     "prettier.semi": false,
     "prettier.singleQuote": true,
-    "editor.formatOnSave": true,
-    "atomKeymap.promptV3Features": true,
-    "editor.formatOnPaste": true
+    "editor.formatOnSave": true
 }
