@@ -14,6 +14,10 @@ $HOME/Library/Application Support/Code/User
 ```
 $ code --list-extensions
 arcticicestudio.nord-visual-studio-code
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+jpoissonnier.vscode-styled-components
 ms-vscode.atom-keybindings
 patbenatar.advanced-new-file
+sleistner.vscode-fileutils
 ```
